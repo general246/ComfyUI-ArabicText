@@ -1,0 +1,15 @@
+[project]
+name = "ComfyUI-ArabicText"
+description = "A powerful ComfyUI node for rendering text with advanced styling options, including full support for Arabic scripts."
+version = "1.0.2"
+license = {file = "LICENSE"}
+dependencies = ["torch", "Pillow", "arabic-reshaper", "torchvision"]
+
+[project.urls]
+Repository = "https://github.com/general246/ComfyUI-ArabicText"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "general246"
+DisplayName = "ComfyUI-ArabicText"
+Icon = ""
