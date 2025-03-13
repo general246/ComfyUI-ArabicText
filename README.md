@@ -1,3 +1,4 @@
+#ComfyUI-ArabicText
 # ArabicText Node for ComfyUI
 
 **ArabicText Node**, is an essential tool for designers and creators working with **ComfyUI**. This node provides a powerful and flexible solution for rendering text with a wide range of styling options, including full support for **Arabic** scripts. Whether you're creating posters, or text-based visuals, this node brings advanced typography features to your workflow.
