@@ -11,8 +11,7 @@
 تدوير النص: تدوير النص حول مركزه.<br>
 ضبط الظل: تخصيص اللون والمسافة والتلاشي للظل.<br>
 ضبط موضع النص وحجمه: ضع النص بالضبط حيث تريده.<br>
-
-![image](https://github.com/user-attachments/assets/926ad95b-9038-40fc-9b37-7f3726c2fb2a)
+![image](https://github.com/user-attachments/assets/e36a0356-c246-4310-918c-3ed3f32756e4)
 
 
 <br>
